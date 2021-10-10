@@ -30,8 +30,8 @@
       &-1 {
         background-image: linear-gradient(
           to right bottom,
-          $color-secondery-light,
-          $color-secondery-dark
+          $color-secondary-light,
+          $color-secondary-dark
         );
       }
       &-2 {
@@ -69,8 +69,8 @@
     &--1 {
       background-image: linear-gradient(
           to right bottom,
-          $color-secondery-light,
-          $color-secondery-dark
+          $color-secondary-light,
+          $color-secondary-dark
         ),
         url(../img/nat-5.jpg);
     }
@@ -110,8 +110,8 @@
     &--1 {
       background-image: linear-gradient(
         to right bottom,
-        rgba($color-secondery-light, 0.85),
-        rgba($color-secondery-dark, 0.85)
+        rgba($color-secondary-light, 0.85),
+        rgba($color-secondary-dark, 0.85)
       );
     }
     &--2 {
